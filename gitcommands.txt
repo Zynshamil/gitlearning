@@ -1,7 +1,11 @@
-git init                => To initialise git
+git init                 => To initialise git
 
-git add -A              => adding files to staging medium
+git add -A               => adding files to staging medium
 
-git commit -m"ur msg"   => adding files to local repository
+git commit -m"ur msg"    => adding files to local repository
 
-git status       	=> listing all untracked file
+git status       	 => listing all untracked file
+
+git remote add name path => to add remote
+
+git push -u name master	 => push 
